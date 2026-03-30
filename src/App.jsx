@@ -53,7 +53,7 @@ function App() {
             </li>
           </ul>
         </div>
-        <div id="social network"> 
+        <div id="social network internet"> 
           <svg className="icon" role="presentation" aria-hidden="true">
             <use href="/icons.svg#social-icon"></use>
           </svg>
